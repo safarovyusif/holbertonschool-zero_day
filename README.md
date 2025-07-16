@@ -1,1 +1,1 @@
-Root README for my project
+Root project README
